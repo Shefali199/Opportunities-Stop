@@ -1,1 +1,2 @@
-"# Opportunities-Stop" 
+This Machine Learning model has been designed for students, job seekers, and lifelong learners. It applies NLP on the posts of various social networking sites and enables users to extract useful information like Job Opportunities, Internships, Blogs, Courses, etc from them. This model has been trained using the concept of Transfer Learning. It has been trained with the help of the state-of-the-art ELMo Model to perform Text Classification on the provided data. It classifies the posts into the following three categories: Job Opportunities, Learning Resources, and None. It thus filters out irrelevant content and provides users the data that may be helpful for them.
+
